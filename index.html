@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- dev-bg.sh checks this marker to make sure :5173 is THIS project's dev server -->
+    <meta name="app-id" content="tech-distributor-demo" />
+    <meta name="theme-color" content="#050506" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="./fonts/mona-sans/mona-sans-latin-wdth-wght-normal.woff2" />
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="./fonts/geist/Geist-Variable.woff2" />
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="./fonts/geist-mono/GeistMono-Variable.woff2" />
+    <!-- vite-ignore: a public/ file referenced relatively (base './'); Vite leaves it as-is and drops this attribute -->
+    <link rel="stylesheet" href="./fonts/fonts.css"  />
+    <title>TRACE — Technology Distribution</title>
+    <script>
+      // QA mode (?qa=1) as early as possible so CSS can neutralise animations before first paint.
+      if (/[?&]qa=(1|true)(&|$)/.test(location.search)) document.documentElement.classList.add('qa')
+    </script>
+    <script type="module" crossorigin src="./assets/index-QITTcNB2.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-hePW80VL.js">
+    <link rel="modulepreload" crossorigin href="./assets/vendor-react-CaQEq8OT.js">
+    <link rel="modulepreload" crossorigin href="./assets/vendor-CFhn8zp4.js">
+    <link rel="modulepreload" crossorigin href="./assets/config-DnxUhk9L.js">
+    <link rel="modulepreload" crossorigin href="./assets/scroll-CMHwYwuW.js">
+    <link rel="stylesheet" crossorigin href="./assets/vendor-fOJvfYOR.css">
+    <link rel="stylesheet" crossorigin href="./assets/index-C69Z-WL6.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

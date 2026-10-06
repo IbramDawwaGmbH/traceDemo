@@ -1,0 +1,9 @@
+/* public/fonts/fonts.css — paths relative to this file (SPEC §3.2). All four families are SIL OFL 1.1 (LICENSE.txt beside each file). */
+@font-face { font-family: 'Mona Sans'; src: url('./mona-sans/mona-sans-latin-wdth-wght-normal.woff2') format('woff2');
+  font-weight: 200 900; font-stretch: 75% 125%; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Geist'; src: url('./geist/Geist-Variable.woff2') format('woff2');
+  font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Geist Mono'; src: url('./geist-mono/GeistMono-Variable.woff2') format('woff2');
+  font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Doto'; src: url('./doto/doto-latin-rond-wght-normal.woff2') format('woff2');
+  font-weight: 100 900; font-style: normal; font-display: swap; }

@@ -1,0 +1,12 @@
+{
+  "frames": 220,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "pattern": "f_%03d.webp",
+  "totalBytes": 10284868,
+  "avgKB": 45.7,
+  "durationSec": 9.167,
+  "quality": 75,
+  "composition": "ScrubFilm"
+}

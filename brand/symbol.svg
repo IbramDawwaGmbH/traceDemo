@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" role="img" aria-label="TRACE symbol">
+  <circle cx="5" cy="17" r="3.25" fill="currentColor"/>
+  <path d="M5 17H17.5L24.5 10H37" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="41" cy="10" r="4" fill="none" stroke="#FF5A1F" stroke-width="3"/>
+</svg>

@@ -1,0 +1,23 @@
+{
+  "composition": "BrandFilm",
+  "frames": 960,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationSec": 32,
+  "codec": "h264",
+  "profile": "High",
+  "pixFmt": "yuv420p",
+  "colorSpace": "bt709",
+  "crf": 20,
+  "x264Preset": "medium",
+  "faststart": true,
+  "bytes": 18346645,
+  "kbps": 4587,
+  "poster": {
+    "file": "brand-film-poster.webp",
+    "frame": 905,
+    "bytes": 13678,
+    "quality": 82
+  }
+}

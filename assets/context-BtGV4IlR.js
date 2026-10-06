@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{i as t}from"./vendor-react-CaQEq8OT.js";var n=e(t(),1),r=(0,n.createContext)({id:``,visible:!0,phase:`warm`,active:!0});function i(){return(0,n.useContext)(r)}export{i as n,r as t};
